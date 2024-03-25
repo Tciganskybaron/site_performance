@@ -1,0 +1,25 @@
+{
+	"name": "site_performance",
+	"version": "1.0.0",
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Tciganskybaron/site_performance.git"
+	},
+	"author": "Tciganskybaron",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Tciganskybaron/site_performance/issues"
+	},
+	"homepage": "https://github.com/Tciganskybaron/site_performance#readme",
+	"dependencies": {
+		"chrome-launcher": "^1.1.1",
+		"exceljs": "^4.4.0",
+		"lighthouse": "^11.7.0",
+		"open": "^10.1.0"
+	}
+}
